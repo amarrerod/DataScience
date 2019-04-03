@@ -98,7 +98,7 @@ visualize_classifier(model, x, y)
 ```
 
 
-![png](output_10_0.png)
+![png](images/output_10_0.png)
 
 
 Los "Random Forests" también se pueden usar dentro del contexto de la regresión (variables continuas). 
@@ -242,8 +242,3 @@ plt.ylabel("predicted label")
 
 ![png](images/output_22_1.png)
 
-
-
-```python
-
-```
